@@ -7,10 +7,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=au-bin" alt="au-bin" /></a> </p>
 
-- 👨‍💻 Mon site se trouve ici : [soon](soon)
-
-- ⚡ Fun fact **Je suis magnifique**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/aubin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="aubin" height="30" width="40" /></a>
