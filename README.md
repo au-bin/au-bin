@@ -1,7 +1,9 @@
 <h1 align="center">Salut ! Je suis Aubin</h1>
-<h3 align="center">Un développeur Python débutant</h3>
+<h3 align="center">Un développeur Python</h3>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Aubin51.png" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/Aubin51.png" 
+        alt="TryHackMe" 
+        style="display: block; margin: 0 auto" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=au-bin&label=Vues%20du%20profil&color=000000&style=plastic" alt="au-bin" /> </p>
 
