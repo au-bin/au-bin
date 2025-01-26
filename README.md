@@ -1,5 +1,5 @@
 <h1 align="center">Salut ! Je suis Aubin</h1>
-<h3 align="center">Un développeur Python</h3>
+<h3 align="center">oui</h3>
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Aubin51.png" 
         alt="TryHackMe" 
